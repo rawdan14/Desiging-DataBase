@@ -1,0 +1,1 @@
+SELECT * FROM mangata_jw.orders_view;
